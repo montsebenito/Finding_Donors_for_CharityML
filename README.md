@@ -1,5 +1,5 @@
 # Finding_Donors_for_CharityML. Project Overview:
-This is my first project for [Introduction to ML with TensorFlow Nanodegree Program at Udacity](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+First project for [Introduction to ML with TensorFlow Nanodegree Program at Udacity](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 
 Optimized several different supervised learners to predict highest donation yield (3.7x fscore (0.75 vs 0.2 naive predictor) +15% accuracy (0.869 vs 0.752 naive predictor). 
 - **Business Understanding**
