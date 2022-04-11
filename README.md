@@ -15,7 +15,6 @@ Optimized several different supervised learners to predict highest donation yiel
 
 
 ## Repo Walk-Through
-Please read this [project' post](https://montsebenito.github.io/improvemarketplace) for a business point of view
 - [visuals.py:](https://github.com/montsebenito/Finding_Donors_for_CharityML/blob/main/visuals.py) A few auxiliary plot functions.
 - [finding_donors.ipynb:](https://github.com/montsebenito/Finding_Donors_for_CharityML/blob/main/finding_donors.ipynb) Main and only notebook.
 
